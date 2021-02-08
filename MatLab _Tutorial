@@ -15,11 +15,20 @@ as a student in this course you must understand INPUT and OUTPUT.
 
 Most everthing is programed already.
 
-FUNCTION: 
+MatLab FUNCTION: 
 log
 max
+save_grid
 
 SYNTAX:
+
+MatLab Software Tools:
+layout
+
+Resources:
+
+https://www.mathworks.com/help/matlab/ref/log.html
+https://www.mathworks.com/help/matlab/ref/max.html
 
 
 
