@@ -19,6 +19,7 @@ MatLab FUNCTION:
 log
 max
 save_grid
+linspace
 
 SYNTAX:
 _______________________________________
@@ -30,6 +31,7 @@ Resources:
 
 https://www.mathworks.com/help/matlab/ref/log.html
 https://www.mathworks.com/help/matlab/ref/max.html
+https://www.mathworks.com/help/matlab/ref/linspace.html
 
 
 
