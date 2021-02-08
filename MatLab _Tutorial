@@ -21,6 +21,7 @@ log
 max
 save_grid
 linspace
+help plot
 
 SYNTAX:
 _______________________________________
