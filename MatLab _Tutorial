@@ -1,8 +1,25 @@
 
 **********************************************************************************************************************************************
-
-
+Becoming an Economics Programer :
 **********************************************************************************************************************************************
-/_Note
+/_Note: Know the difference between SYNTAX and FUNCTION.
 
-/_Real Numbers 
+
+https://www.tutorialspoint.com/matlab/matlab_syntax.htm
+
+"MATLAB is an interpreted environment .. 
+In other words, you give a command and MATLAB executes it immediedtely."
+
+MatLab has already built up the function, in its packages,
+as a student in this course you must understand INPUT and OUTPUT. 
+
+Most everthing is programed already.
+
+FUNCTION: 
+log
+max
+
+SYNTAX:
+
+
+
