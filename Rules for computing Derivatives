@@ -86,13 +86,21 @@ Given two real numbers "a" and "b", the set of all numbers between a and b is ca
 -----------------------------------------------------------------------------------------------------------
 
 If the endpoints a and b are excluded, the interval is called an "open interval". (a,b)
-Open interval: new moon
+/_Note: Open interval: new moon
 
 If both endpoints are included in the inteval, the interval is called a closed interval. 
 [a,b]
-Closed Interval: full moon
+/_Note: Closed Interval: full moon
 
 ---------------------------------------------------------------------------------
+
+If only one endpoint is included, the interval is called half open or half closed.
+(a,b] or [a,b).
+
+Waxing Quarter Moon: [a,b)
+Wanning Quarter Moon: (a,b]
+
+-------------------------------------------------------------------------------------------------
 
 /_Note: Tripple bar ≡ means "identical to: ___________"
 
@@ -109,3 +117,5 @@ point price elasticity of demand
 https://opentextbc.ca/principlesofeconomics/chapter/5-1-price-elasticity-of-demand-and-price-elasticity-of-supply/
 
 If you are new to Houston, you're forgetting that NASA space program is in: H O U S T O N.
+
+Empirical approach
