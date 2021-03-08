@@ -1,3 +1,37 @@
+/_Start_
+**********************************************************************************************************************************************
+When money is allocated to firms, where does that money go?
+
+Process of FINANCIAL INTERMEDIATION:
+
+(0) Money is borrowed from given Bank.
+(1) The firm now has to maximize capital (as well as labor). 
+**********************************************************************************************************************************************
+
+Pre-requiste:
+
+_ math concept -> derivatives and elasticity
+
+https://fanwangecon.github.io/Math4Econ/derivative/htmlpdfm/derivative_rules.html
+https://fanwangecon.github.io/Math4Econ/derivative/htmlpdfm/derivative_elasticity.html
+
+**********************************************************************************************************************************************
+
+When analyzing firms, utilize the: PROFIT FUNCTION
+
+This function, PROFIT FUNCTION, has two components to it: COST and REVENUE .
+The PROFIT FUNCTION is denotated by "pi" π .
+
+Production Function: Y(K) = A * K^α  or  Output(K) A * K^α
+Where in A is the productivity term, if analyzing, then: is Firm A1 more productive than Firm A2 ?
+
+If α = 1 , Y = A * K is Constant Retruns to Scale
+If α < 1, Y = A * K^α is Decreasing Returns to Scale - as K increases - Y increases
+if α 
+
+
+
+
 
 
 https://www.dummies.com/education/math/calculus/how-to-analyze-position-velocity-and-acceleration-with-differentiation/
@@ -5,7 +39,6 @@ https://www.dummies.com/education/math/calculus/how-to-analyze-position-velocity
 
 Rules:
 
-https://fanwangecon.github.io/Math4Econ/derivative/htmlpdfm/derivative_rules.html
 
 https://fanwangecon.github.io/Math4Econ/explog/htmlpdfm/exponential.html
 
@@ -17,7 +50,7 @@ https://fanwangecon.github.io/Math4Econ/explog/htmlpdfm/exolog.html
 
 Elasticty & derivatives: 
 
-https://fanwangecon.github.io/Math4Econ/derivative/htmlpdfm/derivative_elasticity.html
+
 
 
 
